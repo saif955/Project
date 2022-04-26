@@ -1,0 +1,166 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+
+    background: linear-gradient(
+        to right,
+
+     rgb(199, 235, 235) 50% ,);
+    
+   
+
+    }
+
+    html{
+       
+        background: linear-gradient(
+            to right,
+             rgb(170, 170, 231) 0%,
+             rgb(172, 227, 227) 10%,
+             rgba(167, 242, 187, 0.441) 20%,
+             rgb(238, 189, 189) 100%);
+
+             
+
+       
+       
+        }
+.container{
+
+    max-width: 100%;
+   
+    
+    margin: 0 auto;
+    padding: 25px;
+    
+    
+}
+
+
+
+.picture{
+width: 150px;
+height:180px;
+border: 3px solid rgb(0, 0, 0);
+border-radius: 10%;
+float: left;
+
+
+}
+
+.Hbio{
+float:left;
+padding: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{color:rgb(55, 41, 134); }
+
+.Hcontact{
+float : right;
+padding: 20px;
+color: rgb(42, 47, 47);
+font-weight: bold;
+font-size: 20px;
+}
+
+.Hcontact a{
+ text-decoration: none;
+ color: teal;
+ }
+
+ .Hcontact a:hover{
+text-decoration: underline;
+color: brown;
+
+ }
+
+ .div-clear{
+     clear:both;
+ }
+
+ hr{
+border: solid black 3px;
+width:100%;
+border-bottom: none;
+margin: 20px auto;
+        
+ }
+
+ 
+ .left-div{
+width: 30%;
+float: left;
+
+ }
+
+ .right-div{
+
+width: 70%;
+float :left;
+
+
+ }
+
+
+ .left-div2{
+    width: 30%;
+    float: left;
+    
+     }
+    
+     .right-div2{
+    
+    width: 70%;
+    float :left;
+    
+    font-size: 20px;
+     }
+
+ .common-hr{
+  border:solid black 1px;
+  border-bottom: none;
+  margin: 20px auto;
+
+ }
+ 
+ .Special-Skills{
+  width: 200px;
+  background-color: rgb(242, 230, 59);
+  border: 5px solid rgb(23, 158, 11);
+  padding: 50px;
+  margin: 10px;
+  font-size: 20px;
+
+
+ }
+
+ 
+
+ 
+.last{
+    width: 200px;
+    background-color: rgb(242, 230, 59);
+    border: 5px solid rgb(23, 158, 11);
+    padding: 50px;
+    margin: 10px;
+    font-size: 20px;
+  
+
+}
+
+.left-div3{
+    width: 30%;
+    float: left;
+    
+     }
+    
+     .right-div3{
+    
+    width: 70%;
+    float :left;
+    
+    font-size: 20px;
+     }
