@@ -39,7 +39,7 @@ html{
 	<body> 
 	<table align="center" border="1px" > 
 	<tr> 
-		<th colspan="4"><h2>MercenarieZ</h2></th> 
+		<th colspan="4"><h2>NIP</h2></th> 
 		</tr> 
 			  <th> First name </th> 
 			  <th> last name </th> 
